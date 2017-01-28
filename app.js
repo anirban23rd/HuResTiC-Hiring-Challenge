@@ -5,7 +5,7 @@ function displayOutput() {
                 return;
             }
 			
-			var input2 = document.getElementById("name").value;
+			var input2 = document.getElementById("psw").value;
             if (input2.length === 0) {
                 alert("Please enter a valid input");
                 return;
